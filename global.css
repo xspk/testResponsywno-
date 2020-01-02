@@ -77,27 +77,27 @@ background-repeat:no-repeat;
 
 .home::before {
 content:'';
-width:700px;
-height:700px;
+width:800px;
+height:800px;
 background:url(https://i.imgur.com/yVrB1iu.png);
 background-position:center;
 background-size:100%;
 background-repeat:no-repeat;
 position:absolute;
-top:11%;
-right:15%;
+top:5%;
+right:13%;
 }
 
 .home::after {
 content:'';
-width:700px;
-height:700px;
+width:800px;
+height:800px;
 background:url(https://i.imgur.com/yVrB1iu.png);
 background-position:center;
 background-size:100%;
 background-repeat:no-repeat;
 position:absolute;
-top:18%;
+top:13%;
 right:8%;
 }
 
